@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Thank you for visiting my GitHub profile! I am a software engineer and project manager based in📍Zurich,🇨🇭Switzerland. I am especially interested in web development and all the opportunities the web platform can offer.
+Thank you for visiting my GitHub profile! I am a software engineer and project manager based in📍 Zurich,🇨🇭 Switzerland. I am especially interested in web development and all the opportunities the web platform can offer.
 
 - 🔭 I’m currently working on various personal projects: [ViaMondo](https://viamondoapp.com), [OINO](https://oino.ehrensberger.org), [Pick-A-Wish](https://pick-a-wish.herokuapp.com)
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/), [Svelte](https://svelte.dev/) and about the [JAMstack](https://jamstack.org/)
