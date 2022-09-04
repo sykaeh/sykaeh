@@ -19,8 +19,8 @@
 
 Thank you for visiting my GitHub profile! I am a software engineer and project manager based in📍 Zurich,🇨🇭 Switzerland. I am especially interested in web development and all the opportunities the web platform can offer.
 
-- 🔭 I’m currently working on various personal projects: [ViaMondo](https://viamondoapp.com), [OINO](https://oino.ehrensberger.org), [Pick-A-Wish](https://pick-a-wish.herokuapp.com)
-- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/), [Svelte](https://svelte.dev/) and about the [JAMstack](https://jamstack.org/)
+- 🔭 I’m currently working on various personal projects: [ViaMondo](https://viamondoapp.com), [OINO](https://oino.ehrensberger.org), [Pick-A-Wish](https://pick-a-wish.ehrensberger.org)
+- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/) and [React](https://reactjs.org/)
 - 💬 Ask me about [Ionic](https://ionicframework.com/) & [Angular](https://angular.io/)
 - 😄 Pronouns: She/her
 - 🎓 [ETH Zurich](https://ethz.ch) & [University of Toronto](https://www.utoronto.ca/)
@@ -36,24 +36,19 @@ Thank you for visiting my GitHub profile! I am a software engineer and project m
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-  <img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black" />
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-#### Which hosting providers have I used?
+#### Which hosting providers do I used?
 <p>
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
