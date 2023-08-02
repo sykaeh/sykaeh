@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  <a href="https://www.twitter.com/@SEhrensberger" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="12px"> @SEhrensberger
+  <a href="https://hachyderm.io/@SEhrensberger" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="Twitter" height="12px"> @SEhrensberger@hachyderm.io
   </a>
   •
   <a href="https://www.linkedin.com/in/sehrensberger/en" target="_blank">
@@ -46,7 +46,7 @@ Thank you for visiting my GitHub profile! I am a software engineer and project m
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-#### Which hosting providers do I used?
+#### Which hosting providers do I use?
 <p>
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
